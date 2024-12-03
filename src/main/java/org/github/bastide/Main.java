@@ -4,7 +4,7 @@ package org.github.bastide;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //Un commentaire droite
+        //Un commentaire droite gauche
         // Un autre commentaire
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
